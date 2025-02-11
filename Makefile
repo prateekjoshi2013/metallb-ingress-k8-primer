@@ -12,3 +12,4 @@ minikube addons enable metallb ingress
 
 # minikube ingress exposed on ip specified in metallb range"
 
+docker compose  -f compose.yaml up -d
